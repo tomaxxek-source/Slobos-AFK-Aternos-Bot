@@ -27,13 +27,15 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 600,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "ahoj hehe"
+        "smrdis"
+        "kuba je gay"
+        
+        
       ]
     },
     "chat-log": true,
