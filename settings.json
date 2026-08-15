@@ -8,7 +8,7 @@
   "server": {
     "ip": "kubajegej.aternos.me",
     "port": 59507,
-    "version": "1.16.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -27,13 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 600,
       "messages": [
-        "ahoj hehe"
-        "smrdis"
-        "kuba je gay"
+        
         
         
       ]
