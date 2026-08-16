@@ -30,8 +30,8 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 600,
-      "messages": ["cs"]
-        ["EGG"]
+      "messages": ["cs",
+        "EGG"]
         
         
       
